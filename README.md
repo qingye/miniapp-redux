@@ -1,7 +1,12 @@
 Miniapp Redux
 =========================
 
-Fit for MiniProgram App.  
+Fit for MiniProgram App.
+
+[![Build Status](https://travis-ci.org/qingye/miniapp-redux.svg?branch=master)](https://travis-ci.org/qingye/miniapp-redux)
+[![npm version](https://img.shields.io/npm/v/miniapp-redux.svg?style=flat-square)](https://www.npmjs.com/package/miniapp-redux)
+[![npm downloads](https://img.shields.io/npm/dm/miniapp-redux.svg?style=flat-square)](https://www.npmjs.com/package/miniapp-redux)
+[![codecov](https://codecov.io/gh/qingye/miniapp-redux/branch/master/graph/badge.svg)](https://codecov.io/gh/qingye/miniapp-redux)
 
 ## Installation
 ```
