@@ -1,0 +1,4 @@
+<!--index.wxml-->
+<view class="container">
+  <button type="primary" bindtap="tapClick" style="font-size: 32rpx;">点击跳转下一页，且3秒后下页数据变化</button>
+</view>
